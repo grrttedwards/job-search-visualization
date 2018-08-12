@@ -1,0 +1,68 @@
+Task,Start,Finish,Phase
+Job-1,2018-06-15,2018-06-18,Applied
+Job-1,2018-06-18,2018-07-09,Coding Test
+Job-1,2018-07-09,2018-07-19,Phone Interview
+Job-1,2018-07-19,2018-07-20,Declined Further Interview
+Job-2,2018-06-15,2018-06-25,Applied
+Job-2,2018-06-25,2018-06-28,Phone Interview
+Job-2,2018-06-28,2018-07-07,On-site Interview
+Job-2,2018-07-07,2018-07-09,Given Offer
+Job-2,2018-07-09,2018-07-10,Declined Offer
+Job-3,2018-06-15,2018-06-25,Applied
+Job-3,2018-06-25,2018-06-29,Phone Interview
+Job-3,2018-06-29,2018-07-02,On-site Interview
+Job-3,2018-07-02,2018-07-03,Phone Interview
+Job-3,2018-07-03,2018-07-05,Given Offer
+Job-3,2018-07-05,2018-07-06,Declined Offer
+Job-4,2018-06-16,2018-07-02,Applied
+Job-4,2018-07-02,2018-07-03,Phone Interview
+Job-4,2018-07-03,2018-08-10,Didn't Hear Back
+Job-5,2018-06-18,2018-06-27,Applied
+Job-5,2018-06-27,2018-06-28,On-site Interview
+Job-5,2018-06-28,2018-07-03,Phone Interview
+Job-5,2018-07-03,2018-07-04,Given Offer
+Job-5,2018-07-04,2018-07-05,Accepted
+Job-6,2018-06-18,2018-07-03,Applied
+Job-6,2018-07-03,2018-07-04,Phone Interview
+Job-6,2018-07-04,2018-08-10,Didn't Hear Back
+Job-7,2018-03-20,2018-03-27,Applied
+Job-7,2018-03-27,2018-03-29,Phone Interview
+Job-7,2018-03-29,2018-04-06,Phone Interview
+Job-7,2018-04-06,2018-04-09,On-site Interview
+Job-7,2018-04-09,2018-04-10,Denied
+Job-8,2018-02-15,2018-08-10,Never Heard Back
+Job-9,2018-03-18,2018-08-10,Never Heard Back
+Job-10,2018-03-06,2018-08-10,Never Heard Back
+Job-11,2018-05-15,2018-08-10,Never Heard Back
+Job-12,2018-05-16,2018-08-10,Never Heard Back
+Job-13,2018-05-22,2018-08-10,Never Heard Back
+Job-14,2018-05-22,2018-08-10,Never Heard Back
+Job-15,2018-06-13,2018-08-10,Never Heard Back
+Job-16,2018-06-13,2018-08-10,Never Heard Back
+Job-17,2018-06-15,2018-08-10,Never Heard Back
+Job-18,2018-06-15,2018-08-10,Never Heard Back
+Job-19,2018-06-15,2018-08-10,Never Heard Back
+Job-20,2018-06-16,2018-08-10,Never Heard Back
+Job-21,2018-06-06,2018-08-09,Applied
+Job-21,2018-08-09,2018-08-10,Denied
+Job-22,2018-06-16,2018-06-19,Applied
+Job-22,2018-06-19,2018-06-20,Denied
+Job-23,2018-06-16,2018-06-17,Applied
+Job-23,2018-06-17,2018-06-18,Denied
+Job-24,2018-06-15,2018-06-17,Applied
+Job-24,2018-06-20,2018-07-03,Coding Test
+Job-24,2018-07-03,2018-07-04,Denied
+Job-25,2018-05-01,2018-05-04,Applied
+Job-25,2018-05-04,2018-05-05,Denied
+Job-26,2018-04-25,2018-04-26,Applied
+Job-26,2018-04-26,2018-04-27,Denied
+Job-27,2018-03-18,2018-04-25,Applied
+Job-27,2018-04-25,2018-04-26,Denied
+Job-28,2018-03-09,2018-03-27,Applied
+Job-28,2018-03-27,2018-03-28,Denied
+Job-29,2018-02-23,2018-05-04,Applied
+Job-29,2018-05-04,2018-05-05,Denied
+Job-30,2018-02-07,2018-02-14,Applied
+Job-30,2018-02-14,2018-02-15,Denied
+Job-31,2018-02-07,2018-02-16,Applied
+Job-31,2018-02-16,2018-02-17,Denied
